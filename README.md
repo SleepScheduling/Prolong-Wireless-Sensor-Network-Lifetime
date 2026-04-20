@@ -15,6 +15,5 @@ Dataset Description:
       * Coverage and redundancy parameters
   Data is generated under controlled experimental conditions defined in the paper.
 
-
   Summary : 
       This Work optimizes wireless sensor networks by dynamically scheduling nodes between sleep and active states using a hybrid optimization algorithm, thereby reducing energy consumption and extending network lifetime.
